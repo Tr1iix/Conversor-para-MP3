@@ -27,10 +27,6 @@ A fast, lightweight, and privacy-first web application that converts audio and v
 
 ---
 
-## 🚀 Running Locally
+## 🚀 Link to run
 
-Because the entire application lives in a single self-contained `index.html` file with CDN dependencies, no bundler or package manager is required:
-
-1. Clone the repository:
-   ```bash
-   git clone [https://github.com/Tr1iix/SEU-REPOSITORIO.git](https://github.com/Tr1iix/SEU-REPOSITORIO.git)
+https://tr1iix.github.io/Conversor-para-MP3/
