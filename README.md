@@ -24,9 +24,3 @@ A fast, lightweight, and privacy-first web application that converts audio and v
 - **MP3 Encoding:** [lamejs](https://github.com/zhuker/lamejs) (`v1.2.1`) — chunked encoding (`1152 * 32` samples per tick) to keep the UI responsive during large conversions.
 - **Archiving:** [JSZip](https://stuk.github.io/jszip/) (`v3.10.1`) — generates uncompressed `.zip` blobs (`STORE` mode) instantaneously since MP3s are already compressed.
 - **Hosting:** Deployed on **Cloudflare Workers**.
-
----
-
-## 🚀 Link to run
-
-https://tr1iix.github.io/Conversor-para-MP3/
